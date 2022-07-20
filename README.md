@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MuhammadAfzal
+- 👋 Hi, I’m MuhammadAfzal
 - 👀 I’m interested in creating new projects.
 - 🌱 I’m currently learning flutter.
 - 💞️ I’m looking to collaborate on mobile apps and desktop software.
