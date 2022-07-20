@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MuhammadAfzal5589
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @MuhammadAfzal
+- 👀 I’m interested in creating new projects.
+- 🌱 I’m currently learning flutter.
+- 💞️ I’m looking to collaborate on mobile apps and desktop software.
+- 📫 How to reach me ... Email: muhammadafzal16311631@gmail.com
 
 <!---
 MuhammadAfzal5589/MuhammadAfzal5589 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
